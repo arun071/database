@@ -1,0 +1,105 @@
+{
+    "get": [
+        {
+            "id": 1,
+            "title": "Leo",
+            "year": 2023,
+            "rating": 9.0,
+            "runtime": 164,
+            "director": "Lokesh Kanagaraj",
+            "poster": "leo.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Varisu",
+            "year": 2023,
+            "rating": 8.5,
+            "runtime": 167,
+            "director": "Vamshi Paidipally",
+            "poster": "varisu.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Beast",
+            "year": 2022,
+            "rating": 7.0,
+            "runtime": 155,
+            "director": "Nelson Dilipkumar",
+            "poster": "beast.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Master",
+            "year": 2021,
+            "rating": 8.0,
+            "runtime": 179,
+            "director": "Lokesh Kanagaraj",
+            "poster": "master.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Bigil",
+            "year": 2019,
+            "rating": 8.2,
+            "runtime": 179,
+            "director": "Atlee",
+            "poster": "bigil.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Sarkar",
+            "year": 2018,
+            "rating": 7.9,
+            "runtime": 163,
+            "director": "AR Murugadoss",
+            "poster": "sarkar.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Mersal",
+            "year": 2017,
+            "rating": 8.1,
+            "runtime": 172,
+            "director": "Atlee",
+            "poster": "mersal.jpg"
+        },
+       
+        {
+            "id": 8,
+            "title": "Theri",
+            "year": 2016,
+            "rating": 8.0,
+            "runtime": 158,
+            "director": "Atlee",
+            "poster": "theri.jpg"
+        },
+        
+        {
+            "id": 9,
+            "title": "Thuppakki",
+            "year": 2012,
+            "rating": 8.3,
+            "runtime": 165,
+            "director": "AR Murugadoss",
+            "poster": "thuppakki.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Kaththi",
+            "year": 2014,
+            "rating": 8.1,
+            "runtime": 166,
+            "director": "AR Murugadoss",
+            "poster": "kaththi.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Ghilli",
+            "year": 2004,
+            "rating": 8.7,
+            "runtime": 160,
+            "director": "Dharani",
+            "poster": "ghilli.jpg"
+        }
+    ]
+}
