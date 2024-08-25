@@ -1,0 +1,309 @@
+{
+    "get": [  {
+            "id": 36,
+            "title": "Thirumalai",
+            "year": 2003,
+            "rating": 7.2,
+            "runtime": 160,
+            "director": "Ramana",
+            "poster": "thirumalai.jpg"
+        },
+        {
+            "id": 37,
+            "title": "Udhaya",
+            "year": 2004,
+            "rating": 6.0,
+            "runtime": 145,
+            "director": "Azhagam Perumal",
+            "poster": "udhaya.jpg"
+        },
+        {
+            "id": 38,
+            "title": "Ghilli",
+            "year": 2004,
+            "rating": 8.7,
+            "runtime": 160,
+            "director": "Dharani",
+            "poster": "ghilli.jpg"
+        },
+        {
+            "id": 39,
+            "title": "Madhurey",
+            "year": 2004,
+            "rating": 6.3,
+            "runtime": 155,
+            "director": "Ramana Madhesh",
+            "poster": "madhurey.jpg"
+        },
+        {
+            "id": 40,
+            "title": "Thirupaachi",
+            "year": 2005,
+            "rating": 7.0,
+            "runtime": 160,
+            "director": "Perarasu",
+            "poster": "thirupaachi.jpg"
+        },
+        {
+            "id": 41,
+            "title": "Sukran",
+            "year": 2005,
+            "rating": 5.8,
+            "runtime": 145,
+            "director": "S. A. Chandrasekhar",
+            "poster": "sukran.jpg"
+        },
+        {
+            "id": 42,
+            "title": "Sachien",
+            "year": 2005,
+            "rating": 7.1,
+            "runtime": 160,
+            "director": "John Mahendran",
+            "poster": "sachien.jpg"
+        },
+        {
+            "id": 43,
+            "title": "Sivakasi",
+            "year": 2005,
+            "rating": 6.9,
+            "runtime": 160,
+            "director": "Perarasu",
+            "poster": "sivakasi.jpg"
+        },
+        {
+            "id": 44,
+            "title": "Aadhi",
+            "year": 2006,
+            "rating": 6.2,
+            "runtime": 160,
+            "director": "Ramana",
+            "poster": "aadhi.jpg"
+        },
+        {
+            "id": 45,
+            "title": "Pokkiri",
+            "year": 2007,
+            "rating": 7.4,
+            "runtime": 161,
+            "director": "Prabhu Deva",
+            "poster": "pokkiri.jpg"
+        },
+        {
+            "id": 46,
+            "title": "Azhagiya Tamil Magan",
+            "year": 2007,
+            "rating": 6.2,
+            "runtime": 165,
+            "director": "Bharathan",
+            "poster": "azhagiya_tamil_magan.jpg"
+        },
+        {
+            "id": 47,
+            "title": "Kuruvi",
+            "year": 2008,
+            "rating": 5.2,
+            "runtime": 170,
+            "director": "Dharani",
+            "poster": "kuruvi.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Pandhayam",
+            "year": 2008,
+            "rating": 5.5,
+            "runtime": 145,
+            "director": "S. A. Chandrasekhar",
+            "poster": "pandhayam.jpg"
+        },
+        {
+            "id": 49,
+            "title": "Villu",
+            "year": 2009,
+            "rating": 4.1,
+            "runtime": 146,
+            "director": "Prabhu Deva",
+            "poster": "villu.jpg"
+        },
+        {
+            "id": 50,
+            "title": "Vettaikaaran",
+            "year": 2009,
+            "rating": 5.6,
+            "runtime": 166,
+            "director": "B. Babusivan",
+            "poster": "vettaikaaran.jpg"
+        },
+        {
+            "id": 51,
+            "title": "Sura",
+            "year": 2010,
+            "rating": 3.3,
+            "runtime": 175,
+            "director": "S. P. Rajkumar",
+            "poster": "sura.jpg"
+        },
+        {
+            "id": 52,
+            "title": "Kavalan",
+            "year": 2011,
+            "rating": 7.2,
+            "runtime": 152,
+            "director": "Siddique",
+            "poster": "kavalan.jpg"
+        },
+        {
+            "id": 53,
+            "title": "Velayudham",
+            "year": 2011,
+            "rating": 6.6,
+            "runtime": 160,
+            "director": "M. Raja",
+            "poster": "velayudham.jpg"
+        },
+        {
+            "id": 54,
+            "title": "Nanban",
+            "year": 2012,
+            "rating": 7.9,
+            "runtime": 188,
+            "director": "S. Shankar",
+            "poster": "nanban.jpg"
+        },
+        {
+            "id": 55,
+            "title": "Thuppakki",
+            "year": 2012,
+            "rating": 8.3,
+            "runtime": 165,
+            "director": "AR Murugadoss",
+            "poster": "thuppakki.jpg"
+        },
+        {
+            "id": 56,
+            "title": "Thalaivaa",
+            "year": 2013,
+            "rating": 6.2,
+            "runtime": 182,
+            "director": "A. L. Vijay",
+            "poster": "thalaivaa.jpg"
+        },
+        {
+            "id": 57,
+            "title": "Jilla",
+            "year": 2014,
+            "rating": 6.1,
+            "runtime": 182,
+            "director": "R. T. Neason",
+            "poster": "jilla.jpg"
+        },
+        {
+            "id": 58,
+            "title": "Kaththi",
+            "year": 2014,
+            "rating": 8.1,
+            "runtime": 166,
+            "director": "AR Murugadoss",
+            "poster": "kaththi.jpg"
+        },
+        {
+            "id": 59,
+            "title": "Puli",
+            "year": 2015,
+            "rating": 4.3,
+            "runtime": 154,
+            "director": "Chimbu Deven",
+            "poster": "puli.jpg"
+        },
+        {
+            "id": 60,
+            "title": "Theri",
+            "year": 2016,
+            "rating": 8.0,
+            "runtime": 158,
+            "director": "Atlee",
+            "poster": "theri.jpg"
+        },
+        {
+            "id": 61,
+            "title": "Bairavaa",
+            "year": 2017,
+            "rating": 5.8,
+            "runtime": 168,
+            "director": "Bharathan",
+            "poster": "bairavaa.jpg"
+        },
+        {
+            "id": 62,
+            "title": "Mersal",
+            "year": 2017,
+            "rating": 8.1,
+            "runtime": 172,
+            "director": "Atlee",
+            "poster": "mersal.jpg"
+        },
+        {
+            "id": 63,
+            "title": "Sarkar",
+            "year": 2018,
+            "rating": 7.9,
+            "runtime": 163,
+            "director": "AR Murugadoss",
+            "poster": "sarkar.jpg"
+        },
+        {
+            "id": 64,
+            "title": "Bigil",
+            "year": 2019,
+            "rating": 8.2,
+            "runtime": 179,
+            "director": "Atlee",
+            "poster": "bigil.jpg"
+        },
+        {
+            "id": 65,
+            "title": "Master",
+            "year": 2021,
+            "rating": 8.0,
+            "runtime": 179,
+            "director": "Lokesh Kanagaraj",
+            "poster": "master.jpg"
+        },
+        {
+            "id": 66,
+            "title": "Beast",
+            "year": 2022,
+            "rating": 7.0,
+            "runtime": 155,
+            "director": "Nelson Dilipkumar",
+            "poster": "beast.jpg"
+        },
+        {
+            "id": 67,
+            "title": "Varisu",
+            "year": 2023,
+            "rating": 8.5,
+            "runtime": 167,
+            "director": "Vamshi Paidipally",
+            "poster": "varisu.jpg"
+        },
+        {
+            "id": 68,
+            "title": "Leo",
+            "year": 2023,
+            "rating": 9.0,
+            "runtime": 164,
+            "director": "Lokesh Kanagaraj",
+            "poster": "leo.jpg"
+        },
+        {
+            "id": 69,
+            "title": "GOAT",
+            "year": 2024,
+            "rating": 9.5,
+            "runtime": 170,
+            "director": "VenkatPrabhu",
+            "poster": "goat.jpg"
+        }
+    ]
+}
